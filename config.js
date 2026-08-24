@@ -77,7 +77,7 @@ window.GYM_CONFIG = {
     // photo was provided. Swap this for a wide, high-impact action shot
     // whenever you have one — the hero has a dark gradient overlay, so a
     // brighter/higher-contrast image tends to read best here.
-    backgroundImage: "images/about/exterior.png",
+    backgroundImage: "exterior.png",
     ctaPrimary:   { label: "Join Now",       href: "#membership" },
     ctaSecondary: { label: "View Programs",  href: "#services" },
     stats: [
@@ -105,9 +105,9 @@ window.GYM_CONFIG = {
     ctaLabel: "Start Today",
     ctaHref: "#membership",
     // Recommended: 900x1125 (portrait 4:5)
-    imageMain: "images/about/exterior.png",
+    imageMain: "exterior.png",
     // Recommended: 600x600 (square)
-    imageAccent: "images/about/interior.png"
+    imageAccent: "interior.png"
   },
 
   /* ==========================================================
@@ -213,7 +213,7 @@ window.GYM_CONFIG = {
       role: "Strength & Conditioning Coach",
       bio: "Specializes in building raw strength and functional power through progressive, science-backed programming.",
       // Recommended: 500x570 (portrait)
-      image: "arjun.png"
+      image: "arjun.png",
       instagram: "",
       twitter: ""
     },
@@ -221,7 +221,7 @@ window.GYM_CONFIG = {
       name: "Vikram Singh",
       role: "Head Strength Coach",
       bio: "Specializes in strength training & conditioning.",
-      image: "vikram.png"
+      image: "vikram.png",
       instagram: "",
       twitter: ""
     },
@@ -229,7 +229,7 @@ window.GYM_CONFIG = {
       name: "Neha Kapoor",
       role: "Fitness Coach",
       bio: "Specializes in HIIT, cardio & functional training.",
-      image: "neha.png"
+      image: "neha.png",
       instagram: "",
       twitter: ""
     },
@@ -237,7 +237,7 @@ window.GYM_CONFIG = {
       name: "Sneha Mithwani",
       role: "Personal Trainer",
       bio: "Specializes in personalized workouts & fitness guidance.",
-      image: "sneha.png"
+      image: "sneha.png",
       instagram: "",
       twitter: ""
     }
