@@ -213,7 +213,7 @@ window.GYM_CONFIG = {
       role: "Strength & Conditioning Coach",
       bio: "Specializes in building raw strength and functional power through progressive, science-backed programming.",
       // Recommended: 500x570 (portrait)
-      image: "images/trainers/arjun.png",
+      image: "arjun.png"
       instagram: "",
       twitter: ""
     },
@@ -221,7 +221,7 @@ window.GYM_CONFIG = {
       name: "Vikram Singh",
       role: "Head Strength Coach",
       bio: "Specializes in strength training & conditioning.",
-      image: "images/trainers/vikram.png",
+      image: "vikram.png"
       instagram: "",
       twitter: ""
     },
@@ -229,7 +229,7 @@ window.GYM_CONFIG = {
       name: "Neha Kapoor",
       role: "Fitness Coach",
       bio: "Specializes in HIIT, cardio & functional training.",
-      image: "images/trainers/neha.png",
+      image: "neha.png"
       instagram: "",
       twitter: ""
     },
@@ -237,7 +237,7 @@ window.GYM_CONFIG = {
       name: "Sneha Mithwani",
       role: "Personal Trainer",
       bio: "Specializes in personalized workouts & fitness guidance.",
-      image: "images/trainers/sneha.png",
+      image: "sneha.png"
       instagram: "",
       twitter: ""
     }
@@ -253,14 +253,14 @@ window.GYM_CONFIG = {
   // trainer coaching a member, group class energy, premium detail shot,
   // reception/entrance. Replace image URLs below with real photo files/links.
   gallery: [
-    { image: "images/gallery/1-wide-gym-interior.png", caption: "Wide Gym Interior" },
-    { image: "images/gallery/2-free-weight-area.png", caption: "Free-Weight Area" },
-    { image: "images/gallery/3-cardio-section.png", caption: "Cardio Section" },
-    { image: "images/gallery/4-strength-training-area.png", caption: "Strength-Training Area" },
-    { image: "images/gallery/5-trainer-coaching.png", caption: "Trainer Coaching a Member" },
-    { image: "images/gallery/6-group-workout.png", caption: "Group Workout" },
-    { image: "images/gallery/7-premium-detail-shot.png", caption: "Premium Detail Shot" },
-    { image: "images/gallery/8-reception-entrance.png", caption: "Reception & Entrance" }
+    { image: "1-wide-gym-interior.png", caption: "Wide Gym Interior" },
+    { image: "2-free-weight-area.png", caption: "Free-Weight Area" },
+    { image: "3-cardio-section.png", caption: "Cardio Section" },
+    { image: "4-strength-training-area.png", caption: "Strength-Training Area" },
+    { image: "5-trainer-coaching.png", caption: "Trainer Coaching a Member" },
+    { image: "6-group-workout.png", caption: "Group Workout" },
+    { image: "7-premium-detail-shot.png", caption: "Premium Detail Shot" },
+    { image: "8-reception-entrance.png", caption: "Reception & Entrance" }
   ],
 
   /* ==========================================================
